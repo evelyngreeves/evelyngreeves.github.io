@@ -1,5 +1,15 @@
 ---
-title: "evelyngreeves.github.io"
+title: "Evelyn Greeves"
+image: headshot.jpg
+about:
+  template: trestles
+  image-width: round
+  image-width: 23cm
+  links: 
+    - text: GitHub
+      href: https://github.com/evelyngreeves/evelyngreeves
+    - text: Email
+      href: mailto:ejg553@york.ac.uk
 ---
 
 This is a Quarto website.
