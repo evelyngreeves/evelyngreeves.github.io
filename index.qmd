@@ -1,13 +1,13 @@
 ---
 title: "Evelyn Greeves"
 image: headshot.jpg
-about:
+about: 
   template: trestles
-  image-width: round
-  image-width: 23cm
-  links: 
+  image-shape: round
+  image-width: 23em
+  links:
     - text: GitHub
-      href: https://github.com/evelyngreeves/evelyngreeves
+      href: https://github.com/evelyngreeves
     - text: Email
       href: mailto:ejg553@york.ac.uk
 ---
