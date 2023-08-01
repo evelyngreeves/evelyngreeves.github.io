@@ -2,7 +2,7 @@
 title: "Evelyn Greeves"
 image: headshot.jpg
 about: 
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 23em
   links:
