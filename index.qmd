@@ -16,12 +16,14 @@ about:
 
 I'm a biologist and science communicator.
 
-\-\--
+---
 
 ### Education
 
 **BSc in Biology** (2017-2021)   
 University of York
+
+---
 
 ### Experience
 
