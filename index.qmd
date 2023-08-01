@@ -2,7 +2,7 @@
 title: "Evelyn Greeves"
 image: headshot.jpg
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 23em
   links:
@@ -12,10 +12,21 @@ about:
       href: mailto:ejg553@york.ac.uk
 ---
 
-This is a Quarto website.
+## Hi! I'm Evelyn.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a biologist and science communicator.
 
-```{r}
-1 + 1
-```
+\-\--
+
+### Education
+
+**BSc in Biology** (2017-2021)   
+University of York
+
+### Experience
+
+**FAIR and Community Manager** (2021-present)   
+University of York
+
+**Communications & Impact Officer** (2019-2020)   
+Science & Technology Facilties Council

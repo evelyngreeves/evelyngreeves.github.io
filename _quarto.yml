@@ -15,7 +15,6 @@ format:
   html:
     theme: minty
     css: styles.css
-    toc: true
     page-layout: full
 
 editor: visual
