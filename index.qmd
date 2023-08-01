@@ -6,9 +6,11 @@ about:
   image-shape: round
   image-width: 23em
   links:
-    - text: GitHub
+    - icon: github 
+      text: GitHub
       href: https://github.com/evelyngreeves
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:ejg553@york.ac.uk
 ---
 
