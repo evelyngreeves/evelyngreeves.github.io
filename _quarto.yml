@@ -5,17 +5,30 @@ project:
 website:
   title: "Evelyn Greeves"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - portfolio.qmd
+      - icon: github
+        href: https://github.com/evelyngreeves
+      - icon: envelope
+        href: mailto:ejg553@york.ac.uk
+  page-footer: 
+    left: 
+      - "Copyright 2023, Evelyn Greeves"
+    right: 
+      - icon: github
+        href: https://github.com/evelyngreeves
+      - icon: envelope
+        href: mailto:ejg553@york.ac.uk
 
 format:
   html:
-    theme: minty
-    css: styles.css
+    theme:
+      - styles.scss
     page-layout: full
+    mainfont: Noto Sans
 
 editor: visual
 

@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,700;1,700&family=Libre+Franklin:ital,wght@0,600;0,900;1,600;1,900&family=Noto+Sans:ital,wght@0,300;0,500;1,300;1,500&display=swap');
+$font-family-asap: 'Asap', sans-serif;
+$font-family-franklin: 'Libre Franklin', sans-serif;
+$font-family-noto: 'Noto Sans', sans-serif;
+//@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;500&display=swap');
+
+// Colours 1
+$pistachio: #b1d3b5;
+$navy: #1b3776;
+$fuschia: #ce4ca6;
+$white: #fbffff;
+$cream: #f9f6f2;
+$black: #140b07;
+
+// Base document Colours
+$navbar-bg: $cream; // navbar
+$navbar-fg: $navy; // navbar foreground elements
+$navbar-hl: $fuschia; // highlight color when hovering over navbar links
+$body-bg: $pistachio; // page background 
+$body-color: $black; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $fuschia; // hyperlinks
+
+/*-- scss:rules --*/
+
+h1 {
+  color: $navy;
+  font-family: $font-family-asap;
+}
+
+.navbar-title {
+  font-family: $font-family-asap;
+}
+
+.about-link {
+  color: $navy !important;
+}
