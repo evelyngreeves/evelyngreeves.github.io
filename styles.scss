@@ -38,3 +38,20 @@ h1 {
 .about-link {
   color: $navy !important;
 }
+
+// resize logo (top left corner) (from https://github.com/samanthacsik/samanthacsik.github.io/blob/main/green_theme.scss)
+.navbar-brand img { 
+  max-height: 55px;
+  width: auto;
+  margin-left: 10px;
+}
+
+.navbar-nav {
+  font-size: 14pt;
+}
+
+.compact {
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 1.5px;
+}

@@ -5,6 +5,8 @@ project:
 website:
   title: "Evelyn Greeves"
   navbar:
+    title: false
+    logo: images/eg_logo_nf.png
     right:
       - href: index.qmd
         text: Home
