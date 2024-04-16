@@ -1,6 +1,32 @@
 ---
 title: "Leaflets for STFC"
-date: 01-1-2020
-categories: [STFC, Adobe Illustrator, computing]
+categories: [STFC, Adobe InDesign, Computing]
+title-block-banner: true
+image: stfc_leaflets_thumbnail.png
 ---
-Info about leaflets
+
+One of my first projects while working at STFC was a set of eight leaflets briefly summarising the various compute services offered by the Scientific Computing Department. The finished products were displayed on STFC's stand at a major supercomputing conference in the US. A small selection can be seen below.
+
+### What went well?
+This project really helped me gain a deeper understanding of the many projects and services my department was involved in. It was a steep learning curve but I continued to refer back to the leaflets as long as I was working there - and gave copies to confused new graduate scheme students too!
+
+These leaflets were designed not long after UKRI went through a major rebranding, giving all the research councils new logos and identities. I really enjoyed playing with the new brand guidelines to produce documents with a strong, interlinking visual identity.
+
+### What were the challenges?
+The target audience for the flyers was fairly technical, so they had to include a lot of detail that I struggled to understand. The 'by numbers' section on the back page was particularly tricky as I had no reference point for what was an impressive statistic. I relied quite heavily on the teams behind the services to tell me which figures would look most impressive!
+
+This was my first real project in Adobe InDesign and I essentially taught myself to use it through trial, error and lots of Googling. It was worth it though - it's a skill I continue to use to produce impressive-looking documents. I even designed my own wedding invitations in 2023.
+
+### The leaflets
+::: {#leaflets1 layout-ncol=2}
+
+{{< pdf JASMIN.pdf width=100% height=600 >}}
+
+{{< pdf Tape-Libraries.pdf width=100% height=600 >}}
+:::
+::: {#leaflets2 layout-ncol=2}
+
+{{< pdf Scafell-Pike.pdf width=100% height=600 >}}
+
+{{< pdf Pearl.pdf width=100% height=600 >}}
+:::
