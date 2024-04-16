@@ -1,9 +1,15 @@
 ---
 title: "About"
+title-block-banner: true
 ---
+## My work
+I am FAIR Training Lead on the [Cloud-SPAN project](https://cloud-span.york.ac.uk/), where I teach postgraduate and postdoctoral researchers how to use cloud computing for genomics and metagenomics analysis. I really enjoy my job! It gives me opportunities to develop lots of skills, from data analysis to teaching to graphic design.
 
-About this site
+I did my undergraduate degree in Biology at University of York, with a large focus on data analysis and genetics. For my dissertation I used text mining tools to  map the topic landscape of gene editing before and after the advent of CRISPR-Cas9 as a gene editing tool, which was loads of fun.
 
-```{r}
-1 + 1
-```
+During my degree I did a placement year in the [Scientific Computing Department](https://www.scd.stfc.ac.uk/Pages/home.aspx) at the [Science and Technology Facilities Council](https://www.ukri.org/councils/stfc/) (STFC). I spent the year working in communications - talking to scientists and producing leaflets, news articles and infographics about their research. I knew almost nothing about computing or physics when I went in, but I loved the challenge of learning something completely new!
+
+## My life
+I live in the West Midlands with my spouse and love nothing more than getting crafty, whether it be knitting, sewing or paper craft. We would love a dog but currently have to compromise by doing lots of pet-sitting for friends and family. I also run a youth group for LGBTQ+ teenagers, which has its stressful moments but is incredibly rewarding.
+
+![My parents-in-laws' beagle Daisy, one of our pet-sitting charges.](images/crazy_daisy.jpg){width=20% fig-align="left"}
