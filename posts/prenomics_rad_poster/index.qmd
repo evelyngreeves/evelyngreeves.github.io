@@ -2,7 +2,9 @@
 title: "Research Away Day Poster 2022"
 categories: [Cloud-SPAN, Adobe InDesign, Adobe Illustrator, Data Visualisation]
 title-block-banner: true
-lightbox: true
+filters:
+  - lightbox
+lightbox: auto
 #image:
 ---
 
