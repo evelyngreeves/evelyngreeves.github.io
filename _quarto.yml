@@ -5,7 +5,6 @@ project:
 website:
   title: "Evelyn Greeves"
   favicon: images/eg_favicon.png
-  site-url: evelyngreeves.com
   navbar:
     title: false
     logo: images/eg_logo_nf.png
